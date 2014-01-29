@@ -1,0 +1,10 @@
+|Design1_Gudmundsson
+Y <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+D => inst2.IN0
+D => inst2.IN1
+C => inst3.IN1
+C => inst1.IN0
+A => inst.IN0
+B => inst1.IN1
+
+
